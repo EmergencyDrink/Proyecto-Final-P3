@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Doctores</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="container">
+        <button id="loadDoctorsButton">Cargar Doctores</button>
+        <div class="filter-container">
+            <input type="text" id="searchInput" placeholder="Buscar por nombre, apellido o especialidad...">
+        </div>
+        <div id="doctorForm">
+            <h2 id="formTitle">Agregar Nuevo Doctor</h2>
+            <input type="hidden" id="doctorId"> <!-- Campo oculto para el ID del doctor -->
+            <label for="numeroDocumentoIdentidad">Número de Documento:</label>
+            <input type="text" id="numeroDocumentoIdentidad">
+
+            <label for="nombres">Nombres:</label>
+            <input type="text" id="nombres">
+
+            <label for="apellidos">Apellidos:</label>
+            <input type="text" id="apellidos">
+
+            <label for="genero">Género:</label>
+            <select id="genero">
+                <option value="M">Masculino</option>
+                <option value="F">Femenino</option>
+            </select>
+
+            <label for="especialidad">Especialidad:</label>
+            <select id="especialidad"></select>
+
+            <button id="saveDoctorButton">Guardar Doctor</button>
+        </div>
+        <table id="doctorsTable" class="hidden">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Documento</th>
+                    <th>Nombres</th>
+                    <th>Apellidos</th>
+                    <th>Género</th>
+                    <th>Especialidad</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody id="doctorsTableBody"></tbody>
+        </table>
+    </div>
+</body>
+</html>

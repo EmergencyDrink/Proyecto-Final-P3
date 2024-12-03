@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reporte de Pruebas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table th, table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+        table th {
+            background-color: #f2f2f2;
+        }
+        .status {
+            text-align: center;
+        }
+        .completed {
+            color: green;
+            font-weight: bold;
+        }
+        .not-completed {
+            color: red;
+            font-weight: bold;
+        }
+        .notes {
+            font-style: italic;
+        }
+        .checkbox {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Reporte de Pruebas</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Prueba</th>
+                <th>Descripción</th>
+                <th>Estado</th>
+                <th>Notas</th>
+                <th>Completada</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>Registro con datos válidos</td>
+                <td class="status">Completada</td>
+                <td class="notes">Registro realizado exitosamente.</td>
+                <td class="checkbox"><input type="checkbox" checked></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Inicio de sesión con credenciales válidas</td>
+                <td class="status">Completada</td>
+                <td class="notes">Inicio de sesión con credenciales registradas previamente.</td>
+                <td class="checkbox"><input type="checkbox" checked></td>
+            </tr>
+        </tbody>
+    </table>
+    <p style="text-align: center;">Este reporte refleja el estado actual de las pruebas realizadas.</p>
+</body>
+</html>

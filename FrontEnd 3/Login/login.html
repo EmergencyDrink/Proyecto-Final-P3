@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Login - Clinica</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="Register.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="card-header">
+                <h2>Login</h2>
+            </div>
+            <div class="card-body">
+                <form id="loginForm">
+                    <input type="text" id="loginDocumentoIdentidad" placeholder="Documento Identidad" required />
+                    <input type="password" id="loginClave" placeholder="Contraseña" required />
+                    <button type="submit">Login</button>
+                    <div id="loginMessageContainer"></div>
+                </form>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header">
+                <h2>Registrarse</h2>
+            </div>
+            <div class="card-body">
+                <form id="registerForm">
+                    <input type="text" id="registerDocumentoIdentidad" placeholder="Documento Identidad" required />
+                    <input type="text" id="registerNombre" placeholder="Nombre" required />
+                    <input type="text" id="registerApellido" placeholder="Apellido" required />
+                    <input type="email" id="registerCorreo" placeholder="Correo" required />
+                    <input type="password" id="registerClave" placeholder="Contraseña" required />
+                    <input type="password" id="registerConfirmarClave" placeholder="Confirmar Contraseña" required />
+                    <button type="submit">Crear Cuenta</button>
+                    <div id="registerMessageContainer"></div>
+                </form>
+            </div>
+        </div>
+    </div>   
+</body>
