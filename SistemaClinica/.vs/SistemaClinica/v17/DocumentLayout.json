@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capapresentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\CapaNegocio.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\clinicadata\\contrato\\idoctorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\CapaNegocio.csproj|solutionrelative:clinicadata\\contrato\\idoctorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\CapaNegocio.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\clinicadata\\contrato\\icitarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\CapaNegocio.csproj|solutionrelative:clinicadata\\contrato\\icitarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capapresentacion\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68E1B43-4DB7-4422-8007-D24ABC3E74E0}|CapaDatos\\CapaDatos.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capadatos\\configuracion\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68E1B43-4DB7-4422-8007-D24ABC3E74E0}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\configuracion\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capapresentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\CapaNegocio.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\clinicadata\\implementacion\\especialidadrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\CapaNegocio.csproj|solutionrelative:clinicadata\\implementacion\\especialidadrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\CapaNegocio.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\clinicadata\\implementacion\\doctorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\CapaNegocio.csproj|solutionrelative:clinicadata\\implementacion\\doctorrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\CapaNegocio.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\clinicadata\\implementacion\\citarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF3F377-AF10-4708-86CE-A0C62C7ADA05}|ClinicaData\\CapaNegocio.csproj|solutionrelative:clinicadata\\implementacion\\citarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capapresentacion\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capapresentacion\\controllers\\doctorhorariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\controllers\\doctorhorariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capapresentacion\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capapresentacion\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\controllers\\citascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capapresentacion\\models\\dtos\\vmusuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\models\\dtos\\vmusuariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\maximo\\documents\\andy\\proyecto para p3\\proyectop2\\proyectofinalandy\\sistemaclinica\\capapresentacion\\models\\dtos\\vmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE98871E-B79D-4398-BD8B-7F4F7B64DA5D}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\models\\dtos\\vmpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDoctorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\ClinicaData\\Contrato\\IDoctorRepositorio.cs",
+              "RelativeDocumentMoniker": "ClinicaData\\Contrato\\IDoctorRepositorio.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\ClinicaData\\Contrato\\IDoctorRepositorio.cs",
+              "RelativeToolTip": "ClinicaData\\Contrato\\IDoctorRepositorio.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:00:38.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICitaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\ClinicaData\\Contrato\\ICitaRepositorio.cs",
+              "RelativeDocumentMoniker": "ClinicaData\\Contrato\\ICitaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\ClinicaData\\Contrato\\ICitaRepositorio.cs",
+              "RelativeToolTip": "ClinicaData\\Contrato\\ICitaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:00:37.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Program.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Program.cs",
+              "RelativeToolTip": "CapaPresentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:59:45.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "CapaPresentacion\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\appsettings.json",
+              "RelativeToolTip": "CapaPresentacion\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-01T21:54:05.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\ClinicaData\\Implementacion\\DoctorRepositorio.cs",
+              "RelativeDocumentMoniker": "ClinicaData\\Implementacion\\DoctorRepositorio.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\ClinicaData\\Implementacion\\DoctorRepositorio.cs",
+              "RelativeToolTip": "ClinicaData\\Implementacion\\DoctorRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:54:29.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CitaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "RelativeDocumentMoniker": "ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "RelativeToolTip": "ClinicaData\\Implementacion\\CitaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:54:27.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "CapaPresentacion\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:49:09.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EspecialidadRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\ClinicaData\\Implementacion\\EspecialidadRepositorio.cs",
+              "RelativeDocumentMoniker": "ClinicaData\\Implementacion\\EspecialidadRepositorio.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\ClinicaData\\Implementacion\\EspecialidadRepositorio.cs",
+              "RelativeToolTip": "ClinicaData\\Implementacion\\EspecialidadRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:54:31.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConnectionStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaDatos\\Configuracion\\ConnectionStrings.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Configuracion\\ConnectionStrings.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaDatos\\Configuracion\\ConnectionStrings.cs",
+              "RelativeToolTip": "CapaDatos\\Configuracion\\ConnectionStrings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:53:57.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "CapaPresentacion\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:54:10.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CapaPresentacion\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:54:01.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorHorarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\DoctorHorarioController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Controllers\\DoctorHorarioController.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\DoctorHorarioController.cs",
+              "RelativeToolTip": "CapaPresentacion\\Controllers\\DoctorHorarioController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:53:54.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "CapaPresentacion\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:53:50.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CitasController.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\CitasController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Controllers\\CitasController.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Controllers\\CitasController.cs",
+              "RelativeToolTip": "CapaPresentacion\\Controllers\\CitasController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAA4wFEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:53:49.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VMUsuarioLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Models\\DTOs\\VMUsuarioLogin.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Models\\DTOs\\VMUsuarioLogin.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Models\\DTOs\\VMUsuarioLogin.cs",
+              "RelativeToolTip": "CapaPresentacion\\Models\\DTOs\\VMUsuarioLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:51:18.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VMPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Models\\DTOs\\VMPaciente.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Models\\DTOs\\VMPaciente.cs",
+              "ToolTip": "C:\\Users\\Maximo\\Documents\\Andy\\Proyecto para p3\\ProyectoP2\\ProYectoFinalAndy\\SistemaClinica\\CapaPresentacion\\Models\\DTOs\\VMPaciente.cs",
+              "RelativeToolTip": "CapaPresentacion\\Models\\DTOs\\VMPaciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:50:40.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

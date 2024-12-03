@@ -1,0 +1,153 @@
+﻿@model ClinicaWeb.Models.DTOs.VMPaciente;
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Registrarse - Clinica</title>
+    <link href="~/css/styles.css" rel="stylesheet" />
+    <style>        
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #ffffff;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+        }
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            max-width: 900px;
+        }
+
+        .card {
+            width: 45%;
+            margin: 0 10px;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            border-radius: 10px;
+            box-sizing: border-box;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            flex-grow: 1;
+            justify-content: space-between;
+        }
+
+        input {
+            margin-bottom: 15px;
+            padding: 10px;
+            border: none;
+            border-bottom: 2px solid #ffcc00;
+            font-size: 16px;
+            background: none;
+        }
+
+            input:focus {
+                outline: none;
+                border-bottom-color: #ff9900;
+            }
+
+        button {
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            background-color: #ffcc00;
+            color: #fff;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            button:hover {
+                background-color: #ff9900;
+            }</style>
+    <script src="~/lib/fontawesome/all.js"></script>
+</head>
+<body class="bg-primary">
+    <div id="layoutAuthentication">
+        <div id="layoutAuthentication_content">
+            <main>
+                <div class="container">
+                    <div class="card register">
+                        <div class="card-header">
+                            <h2>Crear Cuenta</h2>
+                        </div>
+                        <div class="card-body">
+                            @if (ViewBag.Creado == null)
+                            {
+                                <form asp-controller="Acceso" asp-action="Registrarse" method="post">
+                                    <input type="text" placeholder="Documento Identidad" asp-for="DocumentoIdentidad" required />
+                                    <input type="text" placeholder="Nombre" asp-for="Nombre" required />
+                                    <input type="text" placeholder="Apellido" asp-for="Apellido" required />
+                                    <input type="email" placeholder="Correo" asp-for="Correo" required />
+                                    <input type="password" placeholder="Contraseña" asp-for="Clave" required />
+                                    <input type="password" placeholder="Confirmar Contraseña" asp-for="ConfirmarClave" required />
+
+                                    @if (ViewBag.Mensaje != null)
+                                    {
+                                        <div class="alert alert-danger">
+                                            @ViewBag.Mensaje
+                                        </div>
+                                    }
+
+                                    <button type="submit">Crear Cuenta</button>
+                                </form>
+                            }
+                            else
+                            {
+                                <div class="alert alert-success">
+                                    <p>@ViewBag.Mensaje</p>
+                                </div>
+                            }
+                        </div>
+                        <div class="card-footer text-center py-3">
+                            <div class="small"><a asp-controller="Acceso" asp-action="Login">Ya tienes una cuenta? Acceder</a></div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+        </div>
+        <div id="layoutAuthentication_footer">
+            <footer class="py-4 bg-light mt-auto">
+                <div class="container-fluid px-4">
+                    <div class="d-flex align-items-center justify-content-between small">
+                        <div class="text-muted">Copyright &copy; Your Website 2023</div>
+                        <div>
+                            <a href="#">Privacy Policy</a>
+                            &middot;
+                            <a href="#">Terms &amp; Conditions</a>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>

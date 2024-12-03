@@ -1,0 +1,85 @@
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.dll
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.pdb
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Andy\Documents\ProyectoClinica P2\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaData\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\Bonifacio\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Andy\Documents\Cuatrimestre 5\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\ref\CapaNegocio.dll
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.deps.json
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.dll
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\CapaDatos.pdb
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\bin\Debug\net8.0\ClinicaEntidades.pdb
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNego.81B9D119.Up2Date
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.dll
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\refint\CapaNegocio.dll
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Maximo\Documents\Andy\Proyecto para p3\ProyectoP2\ProYectoFinalAndy\SistemaClinica\ClinicaData\obj\Debug\net8.0\ref\CapaNegocio.dll
